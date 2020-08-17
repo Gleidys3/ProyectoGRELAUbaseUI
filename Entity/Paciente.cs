@@ -19,6 +19,6 @@ namespace Entity
         public string Barrio { get; set; }
         public int Calle { get; set; }
        
-        public string Ciudad { get; set; }
+        public string Ciudad { get; set; }  
     }
 }
